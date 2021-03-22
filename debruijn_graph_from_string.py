@@ -1,3 +1,6 @@
+'''
+This script creates a debruijn graph given a string and a value of k
+'''
 
 
 file = open("/Users/ashle/Downloads/rosalind_ba3d.txt")
