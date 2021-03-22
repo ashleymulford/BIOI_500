@@ -1,4 +1,6 @@
-
+'''
+This script creates a debruijn graph from a collection of kmers
+'''
 
 file = open("/Users/ashle/Downloads/rosalind_ba3e.txt")
 
