@@ -1,3 +1,8 @@
+'''
+This script uses a burrows-wheeler transform and a list of patterns and outputs the number of times each pattern occurs in the original DNA sequence
+'''
+
+
 
 #open file and extract data
 file = open("/Users/ashle/Downloads/rosalind_ba9l.txt")
