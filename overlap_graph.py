@@ -1,3 +1,7 @@
+'''
+This script generates an overlap graph given a collection of k-mers, outputs as an adjacency list
+'''
+
 
 file = open("/Users/ashle/Downloads/rosalind_ba3c.txt")
 
