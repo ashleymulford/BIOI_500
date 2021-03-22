@@ -1,5 +1,5 @@
 '''
-This script generates the burrows-wheeler transform from a string
+This script generates the burrows-wheeler transform of a string
 '''
 
 #read in file
