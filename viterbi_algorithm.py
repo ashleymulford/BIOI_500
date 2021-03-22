@@ -1,3 +1,8 @@
+'''
+This script implements the viterbi algorithm to determine the most probable hidden path (of states) given the alphabet, the states, the known path (from the alphabet),
+the transition matrix, and the emission matrix
+'''
+
 
 file = open("/Users/ashle/Downloads/rosalind_ba10c.txt", "r")
 
