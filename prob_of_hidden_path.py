@@ -1,3 +1,7 @@
+'''
+This script calculates the probability of a hidden path given the hidden path, states, and transition matirx
+'''
+
 
 file = open("/Users/ashle/Downloads/rosalind_ba10a.txt", "r")
 
