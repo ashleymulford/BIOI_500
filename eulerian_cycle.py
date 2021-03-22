@@ -1,3 +1,7 @@
+'''
+This script determines the eulerian cycle given an adjacency list
+'''
+
 import random
 
 file = open("/Users/ashle/Downloads/rosalind_ba3f.txt", "r")
