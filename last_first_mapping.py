@@ -1,3 +1,8 @@
+'''
+This script determines the last to first mapping position given a burrows-wheeler transform and a postion, returns the corresponding position on the original DNA sequence
+'''
+
+
 
 #read in file
 file = open("/Users/ashle/Downloads/rosalind_ba9k.txt")
