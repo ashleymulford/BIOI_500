@@ -1,3 +1,3 @@
-# BIOI_500
+# Python_Scripts
 
-Python code for Advanced Bioinformatics
+A sample of my Python code for various algorithms
