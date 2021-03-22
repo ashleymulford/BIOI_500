@@ -1,5 +1,5 @@
 '''
-This script creates a debruijn graph from a collection of kmers
+This script creates a debruijn graph from a collection of kmers, output as an adjacency list
 '''
 
 file = open("/Users/ashle/Downloads/rosalind_ba3e.txt")
