@@ -1,3 +1,7 @@
+'''
+This script reconstructs the original DNA sequence given a burrows-wheeler transform
+'''
+
 
 #read in file
 file = open("/Users/ashle/Downloads/rosalind_ba9j.txt")
