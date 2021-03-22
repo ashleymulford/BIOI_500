@@ -1,5 +1,5 @@
 '''
-This script creates a debruijn graph given a string and a value of k
+This script creates a debruijn graph given a string and a value of k, output as an adjacency list
 '''
 
 
