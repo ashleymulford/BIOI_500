@@ -1,3 +1,7 @@
+'''
+This script determines all (k,d)-motifs given a collection of DNA strings, a value k (len of motif) and a value d (num of mismatches allowed), outputs list of motifs
+'''
+
 import itertools
 
 #open file with data
