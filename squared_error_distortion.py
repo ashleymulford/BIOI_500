@@ -2,7 +2,6 @@
 This script calculates the squared error distortion given a value k (num of centers), a value m (num of dimensions), a list of centers, and a list of points
 '''
 
-
 import math
 
 #read in file
