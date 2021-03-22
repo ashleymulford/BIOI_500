@@ -1,3 +1,7 @@
+'''
+This scrpit clusters using farthest first traversal given a value k (num of clusters desired), a value m (num of dimensions), and a list of points
+'''
+
 
 import math
 
