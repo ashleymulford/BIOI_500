@@ -1,3 +1,7 @@
+'''
+This script performs genome assembly of DNA seqeucnces in FASTA format, outputs the shortest superstring containing all sequences 
+'''
+
 #import biopython classes
 from Bio.Seq import Seq
 from Bio import SeqIO
