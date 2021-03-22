@@ -1,6 +1,8 @@
+'''
+The script performs the Lloyd algorithm to do k-means clustering given a value k (num of clusters desired), a value m (num of dimensions), and a list of points
+'''
 
 import math
-
 
 #read in file
 file = open("/Users/ashle/Downloads/rosalind_ba8c.txt", "r")
