@@ -1,5 +1,6 @@
 '''
-This script performs genome assembly of DNA seqeucnces in FASTA format, outputs the shortest superstring containing all sequences 
+This script performs genome assembly of DNA seqeucnces that form a cyclical de bruijn graph at some value k. Must consider all sequences provided and their reverse complements
+The value of K is not provided. Outputs a cyclic superstring containing every read or its reverse complement.
 '''
 
 #import biopython classes
