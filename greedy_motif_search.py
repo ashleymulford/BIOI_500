@@ -1,3 +1,6 @@
+'''
+This script outputs a list of the most probable kmers given k , a list of motifs, and m (number of motif provided/kmers desired) 
+'''
 
 
 #open file with data
