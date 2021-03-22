@@ -1,3 +1,8 @@
+'''
+This scripts determines clusters using hierarchical clustering given a value n and and nxn distance matirx, 
+outputs each cluster one by one until all points are within one cluster
+'''
+
 
 import math
 
