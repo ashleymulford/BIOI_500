@@ -1,3 +1,8 @@
+'''
+This script calculates the conditional probability of a string (comprised of the alphabet) given the alphabet, the states, a hidden path (of the states), 
+a transition matrix and an emission matrix
+'''
+
 
 file = open("/Users/ashle/Downloads/rosalind_ba10b.txt", "r")
 
