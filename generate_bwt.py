@@ -1,3 +1,6 @@
+'''
+This script generates the burrows-wheeler transform from a string
+'''
 
 #read in file
 file = open("/Users/ashle/Downloads/rosalind_ba9i.txt")
